@@ -4,8 +4,7 @@
 ## Course Certificate: [Verified by Coursera](https://www.coursera.org/account/accomplishments/certificate/JMW7RA9FZ255)
 
 ## Assignments
-1. [Standard Recurrent NN and LSTM]
-(https://github.com/sadanand1120/Deep-Learning-Specialization/blob/master/(Course-5)%20Sequence%20Models/Standard%20Recurrent%20NN%20and%20LSTM/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb): Building a basic RNN and implementing the standard RNN block. After that, implementing an LSTM cell in place of standard RNN block.
+1. [Standard Recurrent NN and LSTM](https://github.com/sadanand1120/Deep-Learning-Specialization/blob/master/(Course-5)%20Sequence%20Models/Standard%20Recurrent%20NN%20and%20LSTM/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb): Building a basic RNN and implementing the standard RNN block. After that, implementing an LSTM cell in place of standard RNN block.
 
 2. [Text Generation via Language Modeling](https://github.com/sadanand1120/Deep-Learning-Specialization/blob/master/(Course-5)%20Sequence%20Models/Text%20Generation%20via%20Language%20Modeling/Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb): Implementing RNN model for Text Generation so as to generate new Dinosaur names from existing names.
 
