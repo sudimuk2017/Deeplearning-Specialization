@@ -1,4 +1,4 @@
-import numpy as np
+
 
 def linear_forward_test_case():
     np.random.seed(1)
