@@ -9,7 +9,7 @@ Offered by: [deeplearning.ai](https://www.coursera.org/specializations/deep-lear
 
 Language: Python
 
-## Specialization Certificate:  [Verified by Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/AA3YMR2Q9WYN)
+## Specialization Certificate:  [Verified by Coursera](https://www.coursera.org/account/accomplishments/specialization/V8UYAAPRYUK5)
 
 ## Courses
 - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
@@ -44,4 +44,9 @@ Language: Python
   - Via the assignments, it gives a hands-on practice of **Music Generation, Sentiment Classification and Trigger-word Detection** models, among many others. 
   
   Just for reference and I hope you can star⭐ me.
+  
+  ## Contact me
+  
+  Gmail: murindanyi@gmail.com
+  Linkin: [MyLinkin](https://www.linkedin.com/in/murindanyi-sudi-aa8793150/)
   
