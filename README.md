@@ -15,7 +15,7 @@ Language: Python
 - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
 
   - This course covers the basics of Neural Networks. It covers detailed explanation **Forward Propagation, Backward Propagation, Parameters and Hyperparameters**.
-  - It also gives a good amount of practice of working with the **Numpy** package via programming assignments involving building shallow and deep NNs
+  - It also gives a good amount of practice of working with the **Numpy** package via programming assignments involving building shallow and deep NNs.
   
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 
