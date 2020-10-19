@@ -43,7 +43,7 @@ Language: Python
   - It discusses very important concepts related to **Word Embedding**, and algorithms like **Word2Vec, & GloVe**. It then goes on to talk about **Attention model and Speech Recognition**.
   - Via the assignments, it gives a hands-on practice of **Music Generation, Sentiment Classification and Trigger-word Detection** models, among many others. 
   
-  Just for reference and I hope you can star⭐ me.
+  **Just for reference and I hope you can star⭐ me.**
   
   ## Contact me
   
