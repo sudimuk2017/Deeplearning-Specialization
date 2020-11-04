@@ -3,7 +3,7 @@ This repo contains all the projects and assignments that I have completed as a p
 
 **The solutions have been uploaded for personal academic purposes and can be used as a reference by others (but I strongly recommend trying out the assignments on your own).**
 
-gfjfgjhjhigiuh uihuuhfuu hioioiouyy uufyf iiug
+gfjfgjhjhigiuh uihuuhfuuhioioiouyy uufyf iiug
 
 Instructor: [Prof. Andrew Ng](https://www.coursera.org/instructor/andrewng)
 
