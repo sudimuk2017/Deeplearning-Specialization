@@ -1,7 +1,7 @@
 # Deep Learning Specialization
 *******************************************************
 
-hftfgvvy
+hfyfvvy
 
 This repo contains all the projects and assignments that I have completed as a part of DL specialization on Coursera. The specialization covers pretty much all important DL concepts and algorithms from beginner level upto the Advanced level and provides many excellent assignments along with quizzes, so as to strengthen one's understanding.
 
@@ -33,4 +33,25 @@ Language: Python
   - It introduces the ways of carrying out **Error Analysis**, an important step in improving any ML system.
   - It sheds light on concepts of **Bayes Optimal Error and Human-level performance** and describes ways of identifying bias and variance using these concepts.
   - This course also talks in detail about **Train, Dev, and Test sets and the problem of mis-matched datasets**.
-  - Lastly, it also covers very important techniques like **Transfer Learning, Multi-task Learning 
+  - Lastly, it also covers very important techniques like **Transfer Learning, Multi-task Learning and End-to-End Learning**, which have become quite important in the era of big data.
+  
+- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+
+  - This course starts of with the basics of **CNNs** and its related terminologies such as **padding, strides and pooling layers**, and then goes quite in-depth into applying these models to **Computer Vision** tasks, such as **Face Recognition and Verification**.
+  - This also talks about **Residual Networks, and Neural Style Transfer models for art generation**.
+  - Finally, it talks about the **YOLO algorithm**, and helps practice it via an **Autonomous Driving Car Detection** programming assignment, using **Keras**.
+  
+- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+
+  - It starts of with the basics of **RNNs** and then talks in detail about **LSTM and GRU** models. Building **Language models for text generation and Machine Translation application** are also discussed in this course.
+  - It discusses very important concepts related to **Word Embedding**, and algorithms like **Word2Vec, & GloVe**. It then goes on to talk about **Attention model and Speech Recognition**.
+  - Via the assignments, it gives a hands-on practice of **Music Generation, Sentiment Classification and Trigger-word Detection** models, among many others. 
+  
+  **Just for reference and I hope you can star⭐ me.**
+  
+  ## Contact me
+  
+  Gmail: murindanyi@gmail.com
+  
+  Linkin: [MyLinkin](https://www.linkedin.com/in/murindanyi-sudi-aa8793150/)
+  
