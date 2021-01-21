@@ -1,6 +1,8 @@
 # Deep Learning Specialization
 *******************************************************
 
+hfty tf7 fgvvy
+
 This repo contains all the projects and assignments that I have completed as a part of DL specialization on Coursera. The specialization covers pretty much all important DL concepts and algorithms from beginner level upto the Advanced level and provides many excellent assignments along with quizzes, so as to strengthen one's understanding.
 
 **The solutions have been uploaded for personal academic purposes and can be used as a reference by others (but I strongly recommend trying out the assignments on your own).**
